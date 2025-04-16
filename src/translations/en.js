@@ -62,9 +62,9 @@ export const en = {
             tenhouLinkText: "[Accepted Tiles]",
             concise: {
                 discard: "Discard: {{tile}}",
-                acceptance: " ({{count}} tile):",
-                acceptance_plural: " ({{count}} tiles):",
-                tilesExpanded: " {{tiles}}.",
+                acceptance: " ({{count}} tile).",
+                acceptance_plural: " ({{count}} tiles).",
+                tilesExpanded: "",
                 loweredShanten: " (went back in shanten).",
                 optimal: " Best:",
                 optimalSpoiler: " {{tile}}",
