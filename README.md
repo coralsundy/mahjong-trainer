@@ -1,3 +1,26 @@
+This is a fork of the original trainer created by [@Euophrys](https://github.com/Euophrys) with contributions from other members.
+
+It is forked and tweaked for personal use only and I will take it offline if the original author complains.
+
+Thanks.
+
+------
+
+### Website
+
+* https://mjtrainer.coralsundy.com
+
+------
+
+### Tweaks:
+
+* 2025/04/16: Update almost all translations in zh_CN and add missing shunten section
+* 2025/04/16: Cherry-Pick '[PATCH] Display acceptance tiles' from [@nivivon](https://github.com/nivivon)
+* 2025/04/16: Cherry-Pick '[BUGFIX] Fix folding timer' from [@nivivon](https://github.com/nivivon)
+* 2025/04/16: Update Tenhou xml retrival link to new endpoint
+
+------
+
 If you're looking to contribute, translations or otherwise, please see the [contributing guidelines](https://github.com/Euophrys/Riichi-Trainer/blob/develop/CONTRIBUTING.md) for instructions.
 
 This is a collection of tools designed to improve the play of Riichi Mahjong players. It includes an efficiency trainer to help players identify the best tile to discard, a replay analyzer to check the efficiency (and safety, if relevant) of a player's discards, an all-last trainer to assist with comebacks, and a few random utilities.

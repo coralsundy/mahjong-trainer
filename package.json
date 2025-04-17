@@ -1,8 +1,11 @@
 {
-  "name": "riichi-trainer",
+  "name": "mahjong-trainer",
   "version": "3.0.0",
   "private": true,
   "homepage": "./",
+  "engines": {
+    "node": "16.x"
+  },
   "dependencies": {
     "bootstrap": "^4.5.3",
     "cross-env": "^5.2.1",
